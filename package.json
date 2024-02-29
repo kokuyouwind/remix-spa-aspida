@@ -11,8 +11,11 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@aspida/axios": "^1.14.0",
     "@remix-run/node": "^2.8.0",
     "@remix-run/react": "^2.8.0",
+    "aspida": "^1.14.0",
+    "axios": "^1.6.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
